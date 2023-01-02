@@ -23,7 +23,7 @@
 <br/>
 <h3>Who I am?</h3>
 <hr/>
-I’m a <b>Full-Stack Developer</b> who has study in Henry Bootcamp. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+I’m a <b>Full-Stack Developer</b> who has study in FullStack Bootcamp at Henry. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 The first time I got interested in programming was when I entered university and started developing programs to solve equations using different methods in MATLAB and GNU Octave.
 <br/>
 <h3>What do I do?</h3>
@@ -38,10 +38,10 @@ My goal is to keep learning so I can <b>provide better solutions</b> to problems
 <hr/>
 <ul>
 <li>
-Study programming logic for the resolution of calculations at the FRC National Technological University.
+Studied programming logic for the resolution of calculations at the FRC National Technological University.
 </li>
 <li>
-Full Stack Developer with great inclination towards the Back-End and with the ability to design entity-relationship models for different projects such as e-commerce, posts, etc.
+Full Stack Developer with great inclination towards the Back-End with the ability to design entity-relationship models for different projects such as e-commerce, posts, etc.
 </li>
 <li>
 I am currently finishing a FullStack Bootcamp with Henry where I learned various technologies and tools, as well as increasing my knowledge in JavaScript and TypeScript.
