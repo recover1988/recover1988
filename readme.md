@@ -76,11 +76,11 @@ I’m a full-stack developer who has study in Henry Bootcamp. Being a full-stack
 
 <table><tr><td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=recover1988&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=recover1988&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 90%" />
 
 </td><td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recover1988&hide_border=true&layout=compact" align="left" style="width: 90%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recover1988&hide_border=true&layout=compact" align="center" style="width: 90%" />
 
 </td></tr></table>
 
