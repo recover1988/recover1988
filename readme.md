@@ -92,9 +92,9 @@ I’m a full-stack developer who has study in Henry Bootcamp. Being a full-stack
 <img src="https://komarev.com/ghpvc/?username=recover1988&&style=flat-square" align="center" />
 </div>  
 
-<audio controls autoplay >
+<!-- <audio controls autoplay >
   <source src="./img/gtrattack.mp3" type="audio/mpeg">
-</audio>
+</audio> -->
 <br/>
 
 <br />
