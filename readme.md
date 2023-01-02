@@ -91,10 +91,12 @@ I’m a full-stack developer who has study in Henry Bootcamp. Being a full-stack
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=recover1988&&style=flat-square" align="center" />
 </div>  
+<script src="http://api.html5media.info/1.1.8/html5media.min.js">
 
-<!-- <audio controls autoplay >
+</script>
+<audio controls autoplay >
   <source src="./img/gtrattack.mp3" type="audio/mpeg">
-</audio> -->
+</audio>
 <br/>
 
 <br />
