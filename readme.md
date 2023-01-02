@@ -71,7 +71,7 @@ My goal is to keep learning so I can <b>provide better solutions</b> to problems
 
 - 🌱 I’m currently learning more about Next.JS with Typescript.
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to PERN stack and related technologies
 
 - ⚡ Fun fact: I love reading light novels
 
