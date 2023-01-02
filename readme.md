@@ -24,19 +24,15 @@
 <h3>Who I am?</h3>
 <hr/>
 I’m a <b>Full-Stack Developer</b> who has study in Henry Bootcamp. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
 The first time I got interested in programming was when I entered university and started developing programs to solve equations using different methods in MATLAB and GNU Octave.
-
 <br/>
 <h3>What do I do?</h3>
 <hr/>
 Currently I dedicate myself to carrying out projects to <b>learn more about programming</b>.
-
 <br/>
 <h3>Where am I going?</h3>
 <hr/>
 My goal is to keep learning so I can <b>provide better solutions</b> to problems and stay up to date.
-
 <br/>
 <h3>Other data of interest</h3>
 <hr/>
