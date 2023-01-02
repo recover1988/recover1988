@@ -20,14 +20,48 @@
 
 
 ### Glad to see you here!
+<br/>
+<h3>Who I am?</h3>
+<hr/>
+I’m a <b>Full-Stack Developer</b> who has study in Henry Bootcamp. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I’m a full-stack developer who has study in Henry Bootcamp. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+The first time I got interested in programming was when I entered university and started developing programs to solve equations using different methods in MATLAB and GNU Octave.
 
+<br/>
+<h3>What do I do?</h3>
+<hr/>
+Currently I dedicate myself to carrying out projects to <b>learn more about programming</b>.
+
+<br/>
+<h3>Where am I going?</h3>
+<hr/>
+My goal is to keep learning so I can <b>provide better solutions</b> to problems and stay up to date.
+
+<br/>
+<h3>Other data of interest</h3>
+<hr/>
+<ul>
+<li>
 - Study programming logic for the resolution of calculations at the FRC National Technological University.
+</li>
+<li>
 - Full Stack Developer with great inclination towards the Back-End and with the ability to design entity-relationship models for different projects such as e-commerce, posts, etc.
+</li>
+<li>
 - I am currently finishing a FullStack Bootcamp with Henry where I learned various technologies and tools, as well as increasing my knowledge in JavaScript and TypeScript.
-- Responsibility, good communication, leadership, teamwork and continuous learning are my skills when undertaking projects or work.
+</li>
+<li>
+- <b>Responsibility</b>, <b>good communication</b>, <b>leadership</b>, <b>teamwork</b> and <b>continuous learning</b> are my skills when undertaking projects or work.
+</li>
+<li>
 - My job objective is to develop as a programmer by improving my knowledge and skills, with long-term perspectives.
+</li>
+</ul>
+
+
+
+
+
 
 <br/>
 
@@ -35,7 +69,7 @@ I’m a full-stack developer who has study in Henry Bootcamp. Being a full-stack
 
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Next.JS.
+- 🌱 I’m currently learning more about Next.JS with Typescript.
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
@@ -92,9 +126,9 @@ I’m a full-stack developer who has study in Henry Bootcamp. Being a full-stack
 <img src="https://komarev.com/ghpvc/?username=recover1988&&style=flat-square" align="center" />
 </div>  
 
-<audio controls autoplay >
+<!-- <audio controls autoplay >
   <source src="./img/gtrattack.mp3" type="audio/mpeg">
-</audio>
+</audio> -->
 <br/>
 
 <br />
