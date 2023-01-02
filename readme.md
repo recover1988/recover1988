@@ -38,19 +38,19 @@ My goal is to keep learning so I can <b>provide better solutions</b> to problems
 <hr/>
 <ul>
 <li>
-- Study programming logic for the resolution of calculations at the FRC National Technological University.
+Study programming logic for the resolution of calculations at the FRC National Technological University.
 </li>
 <li>
-- Full Stack Developer with great inclination towards the Back-End and with the ability to design entity-relationship models for different projects such as e-commerce, posts, etc.
+Full Stack Developer with great inclination towards the Back-End and with the ability to design entity-relationship models for different projects such as e-commerce, posts, etc.
 </li>
 <li>
-- I am currently finishing a FullStack Bootcamp with Henry where I learned various technologies and tools, as well as increasing my knowledge in JavaScript and TypeScript.
+I am currently finishing a FullStack Bootcamp with Henry where I learned various technologies and tools, as well as increasing my knowledge in JavaScript and TypeScript.
 </li>
 <li>
-- <b>Responsibility</b>, <b>good communication</b>, <b>leadership</b>, <b>teamwork</b> and <b>continuous learning</b> are my skills when undertaking projects or work.
+<b>Responsibility</b>, <b>good communication</b>, <b>leadership</b>, <b>teamwork</b> and <b>continuous learning</b> are my skills when undertaking projects or work.
 </li>
 <li>
-- My job objective is to develop as a programmer by improving my knowledge and skills, with long-term perspectives.
+My job objective is to develop as a programmer by improving my knowledge and skills, with long-term perspectives.
 </li>
 </ul>
 
