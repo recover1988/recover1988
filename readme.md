@@ -106,11 +106,11 @@ My job objective is to develop as a programmer by improving my knowledge and ski
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats-nu-nine-75.vercel.app/api?username=recover1988&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+<img src="https://github-readme-stats-nu-nine-75.vercel.app/api?username=recover1988&show_icons=true&theme=dark#gh-dark-mode-only" align="center" style="width: 100%" />
 
 </td><td valign="top" width="50%">
   
-<img src="https://github-readme-stats-nu-nine-75.vercel.app/api/top-langs/?username=recover1988&hide_border=true&layout=compact" align="center" style="width: 100%" />
+<img src="https://github-readme-stats-nu-nine-75.vercel.app/api/top-langs/?username=recover1988&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" align="center" style="width: 100%" />
 
 </td></tr></table>
 
