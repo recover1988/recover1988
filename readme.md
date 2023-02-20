@@ -98,7 +98,7 @@ My job objective is to develop as a programmer by improving my knowledge and ski
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="75" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" /></a> 
-<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://www.cypress.io/images/layouts/navbar-brand.svg" alt="Cypress.io" height="75" /></a> 
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="Cypress.io" height="75" /></a> 
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular.io" height="75" /></a> 
 </div>
 
